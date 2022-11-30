@@ -1,3 +1,6 @@
+# Install the dependencies.
 sudo apt install python3 python3-pip
 pip3 install image tk opencv-python
+
+# Run the script.
 python3 id.py
